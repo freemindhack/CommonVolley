@@ -30,10 +30,6 @@ import com.iwillow.android.request.FromObjectRequest.DataResponseListener;
  *
  * 
  */
-/**
- * @author Android
- *
- */
 public class ParseUtil {
 	/**
 	 * @param url
