@@ -18,6 +18,7 @@ import com.android.volley.toolbox.HttpHeaderParser;
 /**
  * 封装了一个用于解析XML格式的请求
  * @author https://github.com/iwillow
+ * @date 2015-11-23
  *
  */
 public class XMLRequest extends Request<XmlPullParser> {
