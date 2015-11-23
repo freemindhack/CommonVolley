@@ -15,6 +15,11 @@ import com.android.volley.Response.ErrorListener;
 import com.android.volley.Response.Listener;
 import com.android.volley.toolbox.HttpHeaderParser;
 
+/**
+ * 封装了一个用于解析XML格式的请求
+ * @author https://github.com/iwillow
+ *
+ */
 public class XMLRequest extends Request<XmlPullParser> {
 	private final Listener<XmlPullParser> mListener;
 
