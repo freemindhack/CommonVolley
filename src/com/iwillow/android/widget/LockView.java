@@ -14,6 +14,8 @@ import android.view.View;
 import android.widget.Toast;
 
 /**
+ * 
+ * 一个九宫格华东解锁自定义视图
  * @author Eric Gao
  *
  */
